@@ -1,0 +1,41 @@
+body {
+  background-color:    #ccffff
+;
+}
+
+.Justin {
+  font-family: 'Press Start 2P', monospace;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color:  #3366ff;
+
+}
+
+li { 
+    color:  #3366ff;
+}
+
+p {
+    color:  #3366ff;
+}
+
+li { 
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+h3 {
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+p {
+   font-family: 'Nanum Gothic Coding', monospace;
+}
+
+img { 
+    width: 180px;
+}
